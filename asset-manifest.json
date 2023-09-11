@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Sepete-Ekleme-App/static/css/main.7c63b5c8.css",
+    "main.js": "/Sepete-Ekleme-App/static/js/main.f2248547.js",
+    "static/media/Maouse.jpg": "/Sepete-Ekleme-App/static/media/Maouse.fa44172ef4755897a4f6.jpg",
+    "static/media/Klavye.jpg": "/Sepete-Ekleme-App/static/media/Klavye.e29012874113d98eb252.jpg",
+    "static/media/lenova.jpg": "/Sepete-Ekleme-App/static/media/lenova.2614a82912fdeb245f33.jpg",
+    "static/media/Kulaklık.jpg": "/Sepete-Ekleme-App/static/media/Kulaklık.0a4473391eefc5e98ade.jpg",
+    "static/media/Iphone.jpg": "/Sepete-Ekleme-App/static/media/Iphone.9f40771c8d15db6bcde2.jpg",
+    "static/media/msi.jpg": "/Sepete-Ekleme-App/static/media/msi.a6648ad96c16677815c1.jpg",
+    "static/media/oyun.jpg": "/Sepete-Ekleme-App/static/media/oyun.4afa2f1b9a71d85822bc.jpg",
+    "index.html": "/Sepete-Ekleme-App/index.html",
+    "main.7c63b5c8.css.map": "/Sepete-Ekleme-App/static/css/main.7c63b5c8.css.map",
+    "main.f2248547.js.map": "/Sepete-Ekleme-App/static/js/main.f2248547.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c63b5c8.css",
+    "static/js/main.f2248547.js"
+  ]
+}
